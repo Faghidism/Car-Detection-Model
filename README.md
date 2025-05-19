@@ -2,12 +2,11 @@
 # Image Processing Course Project - Vehicle Type Classification and Counting
 
 
-## Used Custom Dataset : https://drive.google.com/drive/folders/1jDisvlDClmXu0Va1LBhqfvDN4TUYpOAq?usp=drive_link
+## Used Custom Dataset : https://drive.google.com/drive/folders/1jDisvlDClmXu0Va1LBhqfvDN4TUYpOAq?usp=sharing
 
 ## Input & Output Videos : https://drive.google.com/drive/folders/1N1ui-NpBu9lG8rKt8SWwYMQanxJ4msu5?usp=sharing
 
-## Implementation with Python : https://drive.google.com/drive/folders/1oSqjIiporZaDhF_FiZve8ibpzmgssCSu?usp=drive_link
-
+## Implementation with Python : https://drive.google.com/drive/folders/1oSqjIiporZaDhF_FiZve8ibpzmgssCSu?usp=sharing
 
 
 
